@@ -1,1 +1,1 @@
-# Web stack debugging #1
+### 0x03. AirBnB clone - Deploy static
